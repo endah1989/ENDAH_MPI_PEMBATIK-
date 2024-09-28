@@ -1,0 +1,2 @@
+# ENDAH_MPI_PEMBATIK-
+Tugas Pembatik 2024
